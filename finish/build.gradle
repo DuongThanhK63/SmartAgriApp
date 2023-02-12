@@ -28,7 +28,7 @@ android {
     defaultConfig {
         applicationId "org.tensorflow.lite.examples.classification"
         minSdkVersion 21
-        targetSdkVersion 30
+        targetSdkVersion 29
         versionCode 1
         versionName "1.0"
 

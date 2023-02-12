@@ -51,7 +51,7 @@ import org.tensorflow.lite.gpu.CompatibilityList
 
 // Constants
 private const val MAX_RESULT_DISPLAY = 1 // Maximum number of results displayed
-private const val TAG = "TFL Classify" // Name for logging
+private const val TAG = "SmartAgri" // Name for logging
 private const val REQUEST_CODE_PERMISSIONS = 999 // Return code after asking for permission
 private val REQUIRED_PERMISSIONS = arrayOf(Manifest.permission.CAMERA) // permission needed
 
